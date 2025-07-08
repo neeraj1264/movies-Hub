@@ -52,7 +52,7 @@ const Video = () => {
           width="100%"
           height="100%"
           // src="https://www.youtube.com/embed/zJStJnmGmW0?enablejsapi=1"
-          src="https://www.youtube.com/embed/KHUzBDVVqKI?modestbranding=1&rel=0&enablejsapi=1"
+          src="https://www.youtube.com/embed/wXmKqDM9isQ?modestbranding=1&rel=0&enablejsapi=1"
           // src="https://www.youtube.com/embed/t7YtZoVZHtI?enablejsapi=1"
           title="YouTube Video"
           frameBorder="0"
